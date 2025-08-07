@@ -47,3 +47,4 @@ The server will be running on `http://localhost:3000`.
 ### Testing the API
 
 You can test the API endpoints using Postman or any other API testing tool.
+
