@@ -1,0 +1,16 @@
+{
+  "name": "book-management-api",
+  "version": "1.0.0",
+  "description": "A simple REST API to manage a list of books using Node.js and Express.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
